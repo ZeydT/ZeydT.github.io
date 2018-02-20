@@ -1,0 +1,9 @@
+.antwoord {
+  color: grey;
+  background-color: grey;
+  display: table;
+}
+
+.antwoord:hover{
+  color: white;
+}
