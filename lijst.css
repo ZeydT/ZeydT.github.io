@@ -1,4 +1,4 @@
-.kopjes a:link, a:visited {
+.kopjes li a:link, a:visited {
     background-color: dimgrey;
     color: white;
     padding: 10px 19px;
@@ -8,7 +8,7 @@
 }
 
 
-.kopjes a:hover, a:active {
+.kopjes li a:hover, a:active {
     background-color: white;
     color: dimgrey;
 }
