@@ -16,6 +16,7 @@ p {
 
 ul {
     color: white;
+    font-family: Verdana;
 }
 
 img {
@@ -35,6 +36,7 @@ a:link, a:visited {
     text-align: center;
     text-decoration: none;
     display: inline-block;
+    font-family: Verdana;
 }
 
 a:hover, a:active {
