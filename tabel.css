@@ -17,4 +17,5 @@ td {
 
 .toetsenborden {
   border-collapse: collapse;
+  color: red;
 }
