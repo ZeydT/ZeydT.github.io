@@ -4,6 +4,7 @@ table {
   background-color: white;
   color: black;
   border-collapse: collapse;
+  font-family: Courier;
 }
 
 th {
