@@ -59,3 +59,7 @@ a:hover, a:active {
   border-left: 4px solid black;
   border-bottom: 2px solid black;
 }
+
+title {
+  font-family: Verdana;
+}
