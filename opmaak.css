@@ -1,7 +1,6 @@
 body {
-  background-color:  darkslategrey;
+  background-color: darkslategrey;
   background-size: 100%
-  font-family: Verdana;
 }
 
 h1, h2 {
@@ -12,6 +11,7 @@ h1, h2 {
 p {
   margin: 10px 20px;
   color: white;
+  font-family: Verdana;
 }
 
 ul {
