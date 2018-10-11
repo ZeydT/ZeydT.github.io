@@ -1,3 +1,46 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+header {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: Arial;
+}
+
+
+header h1 {
+  font-size: 60px;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: white;
+  text-align: center;
+}
+
 body {
-  background-color: lightblue;
+  font-size: 20px;
+  font-family: "Times New Roman";
+  color: white;
+  background-image: url('https://www.setaswall.com/wp-content/uploads/2017/03/Ice-Mountains-Landscapes-Snow-Wallpaper-1920x1080.jpg');
+}
+
+ul {
+  padding: 10px;
+}
+
+ul li {
+  background: #787878;
+  padding: 5px;
+  border: solid 2px white;
+  display: inline-block;
+}
+
+ul li a {
+  color: white;
+  text-decoration: none;
+}
+
+ul li a:hover {
+  color: #C0C0C0;
 }
