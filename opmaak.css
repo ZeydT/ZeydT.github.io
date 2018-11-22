@@ -8,6 +8,37 @@
   width: 960px;
 }
 
+#cssPlaatje {
+  float: right;
+}
+
+#badgestekst {
+  float: left;
+}
+
+#tekst {
+  margin-left: 50%;
+  margin-right: 20%;
+  color: black;
+}
+
+#contact {
+  margin-right: 50%;
+  margin-left: 0%;
+}
+
+#warchild {
+  margin-top: 0%;
+  margin-left: 50%;
+  margin-right: 10%;
+}
+
+iframe {
+  margin-left: 50%;
+  margin-right: 20%;
+  background-color: white;
+}
+
 header {
   display: block;
   margin-left: auto;
@@ -31,8 +62,8 @@ header h1 {
 body {
   font-size: 20px;
   font-family: Arial;
-  color: #8CCD8F;
-  background-color: #909590;
+  color: black;
+  background-color: grey;
   background-size: 100%;
 }
 
